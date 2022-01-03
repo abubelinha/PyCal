@@ -1,4 +1,5 @@
-# PyCal
+# PyCal 
+(see comments in the original [blog post](http://a-d-c.ca/pdf-calendar-making-in-python/#page-content))
 
 A very simple Python PDF Calendar program.  Instead of using someone elses program, I thought about making one myself.
 
